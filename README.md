@@ -1,8 +1,8 @@
 # Student Management System Project
-##Features:
-###Student add
-###Student delete
-###Student show
-###Student Edit
-###Search students by Department and Student ID
-###Proper form validation while student adding and updating
+Features:
+1.Student add
+2.Student delete
+3.Student show
+4.Student Edit
+5.Search students by Department and Student ID
+6.roper form validation while student adding and updating
